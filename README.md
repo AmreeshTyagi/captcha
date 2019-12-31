@@ -276,7 +276,7 @@ store must be registered with SetCustomStore to replace the default one.
 
 ## MIT License
 
-    Copyright (c) 2018 Amreesh Tyagi
+    Copyright (c) 2019 Amreesh Tyagi
 
 [build-status-url]: https://travis-ci.org/AmreeshTyagi/captcha
 [build-status-image]: https://travis-ci.org/AmreeshTyagi/captcha.svg?branch=master
